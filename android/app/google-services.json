@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "256139521177",
+    "project_id": "fir-tutorial-c4b8a",
+    "storage_bucket": "fir-tutorial-c4b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256139521177:android:b89140c09bd37205ce1c08",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256139521177-hlbb5fco05uubq0ps90cp56or307kd4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjbz30_6XXE0zJGpyu6RVc7W0dcTsk1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256139521177-hlbb5fco05uubq0ps90cp56or307kd4f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256139521177-45lm5cfj3im6vagb0406ni6ov7nsusgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tougo.firebasetutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256139521177:android:4d699e32f4cc7769ce1c08",
+        "android_client_info": {
+          "package_name": "com.tougo.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256139521177-hlbb5fco05uubq0ps90cp56or307kd4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjbz30_6XXE0zJGpyu6RVc7W0dcTsk1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256139521177-hlbb5fco05uubq0ps90cp56or307kd4f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256139521177-45lm5cfj3im6vagb0406ni6ov7nsusgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tougo.firebasetutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
